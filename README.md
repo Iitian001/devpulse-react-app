@@ -16,3 +16,4 @@ To run this project locally without hitting GitHub API rate limits quickly, you 
 2. Add your GitHub Personal Access Token to the `.env` file:
    `VITE_API_TOKEN=your_token_here`
 3. Run `npm install` and then `npm run dev`.
+4. Open http://localhost:5173 in your browser.
